@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jirka\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\PROJEKT C#\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B06118-800A-467C-A7BB-4E10F3D5637B}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\jirka\\onedrive - obchodn\u00ED akademie krom\u011B\u0159\u00ED\u017E\\projekt c#\\winformsapp1\\winformsapp1\\pexesoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B06118-800A-467C-A7BB-4E10F3D5637B}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\pexesoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B06118-800A-467C-A7BB-4E10F3D5637B}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\jirka\\onedrive - obchodn\u00ED akademie krom\u011B\u0159\u00ED\u017E\\projekt c#\\winformsapp1\\winformsapp1\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B06118-800A-467C-A7BB-4E10F3D5637B}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B06118-800A-467C-A7BB-4E10F3D5637B}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\jirka\\onedrive - obchodn\u00ED akademie krom\u011B\u0159\u00ED\u017E\\projekt c#\\winformsapp1\\winformsapp1\\formseznam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B06118-800A-467C-A7BB-4E10F3D5637B}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\formseznam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B06118-800A-467C-A7BB-4E10F3D5637B}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\jirka\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\PROJEKT C#\\WinFormsApp1\\winformsapp1\\pexesoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3B06118-800A-467C-A7BB-4E10F3D5637B}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\pexesoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B06118-800A-467C-A7BB-4E10F3D5637B}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\jirka\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\PROJEKT C#\\WinFormsApp1\\winformsapp1\\kamennuzkypapir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3B06118-800A-467C-A7BB-4E10F3D5637B}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\kamennuzkypapir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B06118-800A-467C-A7BB-4E10F3D5637B}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\jirka\\onedrive - obchodn\u00ED akademie krom\u011B\u0159\u00ED\u017E\\projekt c#\\winformsapp1\\winformsapp1\\pixelartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B06118-800A-467C-A7BB-4E10F3D5637B}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\pixelartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B06118-800A-467C-A7BB-4E10F3D5637B}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\jirka\\onedrive - obchodn\u00ED akademie krom\u011B\u0159\u00ED\u017E\\projekt c#\\winformsapp1\\winformsapp1\\kamennuzkypapir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B06118-800A-467C-A7BB-4E10F3D5637B}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\kamennuzkypapir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B06118-800A-467C-A7BB-4E10F3D5637B}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\jirka\\onedrive - obchodn\u00ED akademie krom\u011B\u0159\u00ED\u017E\\projekt c#\\winformsapp1\\winformsapp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3B06118-800A-467C-A7BB-4E10F3D5637B}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B06118-800A-467C-A7BB-4E10F3D5637B}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\jirka\\onedrive - obchodn\u00ED akademie krom\u011B\u0159\u00ED\u017E\\projekt c#\\winformsapp1\\winformsapp1\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B06118-800A-467C-A7BB-4E10F3D5637B}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\jirka\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\PROJEKT C#\\WinFormsApp1\\WinFormsApp1\\MainMenu.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\jirka\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\PROJEKT C#\\WinFormsApp1\\WinFormsApp1\\MainMenu.cs",
+              "RelativeToolTip": "WinFormsApp1\\MainMenu.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwDAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:41:58.619Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WinFormsApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\jirka\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\PROJEKT C#\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeDocumentMoniker": "WinFormsApp1\\WinFormsApp1.csproj",
+              "ToolTip": "C:\\Users\\jirka\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\PROJEKT C#\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeToolTip": "WinFormsApp1\\WinFormsApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T14:38:26.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KamenNuzkyPapir.cs",
+              "DocumentMoniker": "C:\\Users\\jirka\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\PROJEKT C#\\WinFormsApp1\\WinFormsApp1\\KamenNuzkyPapir.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\KamenNuzkyPapir.cs",
+              "ToolTip": "C:\\Users\\jirka\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\PROJEKT C#\\WinFormsApp1\\WinFormsApp1\\KamenNuzkyPapir.cs",
+              "RelativeToolTip": "WinFormsApp1\\KamenNuzkyPapir.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAYwKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:40:11.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PixelArtForm.cs",
+              "DocumentMoniker": "C:\\Users\\jirka\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\PROJEKT C#\\WinFormsApp1\\WinFormsApp1\\PixelArtForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\PixelArtForm.cs",
+              "ToolTip": "C:\\Users\\jirka\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\PROJEKT C#\\WinFormsApp1\\WinFormsApp1\\PixelArtForm.cs",
+              "RelativeToolTip": "WinFormsApp1\\PixelArtForm.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAmwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:49:23.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KamenNuzkyPapir.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jirka\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\PROJEKT C#\\WinFormsApp1\\WinFormsApp1\\KamenNuzkyPapir.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\KamenNuzkyPapir.cs",
+              "ToolTip": "C:\\Users\\jirka\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\PROJEKT C#\\WinFormsApp1\\WinFormsApp1\\KamenNuzkyPapir.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\KamenNuzkyPapir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:55:07.108Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PexesoForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jirka\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\PROJEKT C#\\WinFormsApp1\\WinFormsApp1\\PexesoForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\PexesoForm.cs",
+              "ToolTip": "C:\\Users\\jirka\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\PROJEKT C#\\WinFormsApp1\\WinFormsApp1\\PexesoForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\PexesoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:47:12.663Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormSeznam.cs",
+              "DocumentMoniker": "C:\\Users\\jirka\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\PROJEKT C#\\WinFormsApp1\\WinFormsApp1\\FormSeznam.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FormSeznam.cs",
+              "ToolTip": "C:\\Users\\jirka\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\PROJEKT C#\\WinFormsApp1\\WinFormsApp1\\FormSeznam.cs",
+              "RelativeToolTip": "WinFormsApp1\\FormSeznam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:30:34.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Achievement.cs",
+              "DocumentMoniker": "C:\\Users\\jirka\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\PROJEKT C#\\WinFormsApp1\\WinFormsApp1\\Achievement.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Achievement.cs",
+              "ToolTip": "C:\\Users\\jirka\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\PROJEKT C#\\WinFormsApp1\\WinFormsApp1\\Achievement.cs",
+              "RelativeToolTip": "WinFormsApp1\\Achievement.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:35:09.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PexesoForm.cs",
+              "DocumentMoniker": "C:\\Users\\jirka\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\PROJEKT C#\\WinFormsApp1\\WinFormsApp1\\PexesoForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\PexesoForm.cs",
+              "ToolTip": "C:\\Users\\jirka\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\PROJEKT C#\\WinFormsApp1\\WinFormsApp1\\PexesoForm.cs",
+              "RelativeToolTip": "WinFormsApp1\\PexesoForm.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T14:00:58.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
