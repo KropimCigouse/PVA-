@@ -1,4 +1,5 @@
-﻿namespace WinFormsApp1
+﻿/*Jakub Šíma 3.C PVA + hry ve WindowsForms s achievementy */
+namespace WinFormsApp1
 {
     public partial class MainMenu : Form
     {
